@@ -1,5 +1,5 @@
 # Pig-Dice-Game
-Pig Dice Game Project for "The Complete Javascript Course" by Jonas Schmedtmann- a simple dice game.
+Pig Dice Game Project for "The Complete Javascript Course" by Jonas Schmedtmann - a simple dice game.
 
 Author: Valentin Dimitrov
 
